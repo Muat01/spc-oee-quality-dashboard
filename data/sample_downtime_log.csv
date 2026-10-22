@@ -1,0 +1,316 @@
+date,shift,reason,minutes
+2026-03-02,Morning,Changeover,41.8
+2026-03-02,Morning,Breakdown,15.0
+2026-03-02,Afternoon,Minor stops,17.6
+2026-03-02,Afternoon,Minor stops,5.7
+2026-03-02,Night,Minor stops,11.5
+2026-03-02,Night,Breakdown,37.8
+2026-03-02,Night,Breakdown,13.9
+2026-03-03,Morning,Breakdown,43.5
+2026-03-03,Morning,Breakdown,31.0
+2026-03-03,Morning,Breakdown,34.6
+2026-03-03,Morning,Material shortage,6.2
+2026-03-03,Afternoon,Material shortage,6.5
+2026-03-03,Afternoon,Breakdown,37.3
+2026-03-03,Afternoon,Changeover,35.6
+2026-03-03,Afternoon,Breakdown,49.2
+2026-03-03,Night,Breakdown,36.5
+2026-03-03,Night,Material shortage,10.5
+2026-03-03,Night,Minor stops,14.5
+2026-03-04,Morning,Minor stops,12.2
+2026-03-04,Morning,Breakdown,36.6
+2026-03-04,Morning,Changeover,3.8
+2026-03-04,Morning,Breakdown,21.6
+2026-03-04,Afternoon,Changeover,47.5
+2026-03-04,Afternoon,Breakdown,7.4
+2026-03-04,Night,Changeover,36.5
+2026-03-04,Night,Minor stops,3.7
+2026-03-04,Night,Minor stops,6.0
+2026-03-05,Morning,Minor stops,4.9
+2026-03-05,Morning,Breakdown,52.4
+2026-03-05,Morning,Breakdown,56.5
+2026-03-05,Morning,Material shortage,13.1
+2026-03-05,Afternoon,Breakdown,14.6
+2026-03-05,Afternoon,Changeover,16.0
+2026-03-05,Night,Breakdown,53.3
+2026-03-05,Night,Material shortage,2.0
+2026-03-05,Night,Changeover,13.5
+2026-03-05,Night,Minor stops,17.0
+2026-03-06,Morning,Breakdown,15.5
+2026-03-06,Morning,Minor stops,5.4
+2026-03-06,Morning,Minor stops,2.0
+2026-03-06,Morning,Changeover,38.2
+2026-03-06,Morning,Changeover,9.8
+2026-03-06,Afternoon,Minor stops,3.1
+2026-03-06,Afternoon,Changeover,29.8
+2026-03-06,Afternoon,Changeover,22.7
+2026-03-06,Night,Breakdown,43.8
+2026-03-06,Night,Minor stops,8.9
+2026-03-06,Night,Breakdown,24.7
+2026-03-06,Night,Minor stops,6.4
+2026-03-07,Morning,Minor stops,10.8
+2026-03-07,Morning,Changeover,15.6
+2026-03-07,Afternoon,Minor stops,15.2
+2026-03-07,Afternoon,Breakdown,25.4
+2026-03-07,Night,Changeover,32.7
+2026-03-07,Night,Breakdown,55.8
+2026-03-07,Night,Changeover,42.6
+2026-03-07,Night,Material shortage,10.8
+2026-03-08,Morning,Breakdown,8.6
+2026-03-08,Morning,Breakdown,45.0
+2026-03-08,Afternoon,Breakdown,27.0
+2026-03-08,Afternoon,Minor stops,2.5
+2026-03-08,Afternoon,Minor stops,2.0
+2026-03-08,Afternoon,Breakdown,73.8
+2026-03-08,Afternoon,Breakdown,20.4
+2026-03-08,Night,Breakdown,42.4
+2026-03-08,Night,Material shortage,24.7
+2026-03-08,Night,Material shortage,12.7
+2026-03-08,Night,Minor stops,21.2
+2026-03-09,Morning,Minor stops,11.8
+2026-03-09,Morning,Changeover,64.1
+2026-03-09,Morning,Material shortage,2.0
+2026-03-09,Morning,Minor stops,13.5
+2026-03-09,Afternoon,Minor stops,6.2
+2026-03-09,Afternoon,Quality check,10.5
+2026-03-09,Night,Changeover,12.2
+2026-03-09,Night,Changeover,25.0
+2026-03-09,Night,Breakdown,23.7
+2026-03-10,Morning,Quality check,4.0
+2026-03-10,Morning,Changeover,14.4
+2026-03-10,Morning,Breakdown,28.4
+2026-03-10,Morning,Breakdown,4.8
+2026-03-10,Afternoon,Minor stops,4.7
+2026-03-10,Afternoon,Changeover,26.5
+2026-03-10,Afternoon,Changeover,25.4
+2026-03-10,Afternoon,Breakdown,3.8
+2026-03-10,Afternoon,Breakdown,24.4
+2026-03-10,Night,Changeover,11.4
+2026-03-10,Night,Breakdown,27.0
+2026-03-10,Night,Changeover,11.5
+2026-03-10,Night,Minor stops,3.2
+2026-03-11,Morning,Quality check,13.8
+2026-03-11,Morning,Breakdown,29.7
+2026-03-11,Morning,Changeover,13.6
+2026-03-11,Morning,Changeover,17.0
+2026-03-11,Morning,Minor stops,3.4
+2026-03-11,Afternoon,Breakdown,51.5
+2026-03-11,Afternoon,Breakdown,2.0
+2026-03-11,Afternoon,Minor stops,16.1
+2026-03-11,Afternoon,Changeover,29.8
+2026-03-11,Night,Breakdown,6.4
+2026-03-11,Night,Breakdown,36.2
+2026-03-11,Night,Material shortage,19.0
+2026-03-12,Morning,Breakdown,70.2
+2026-03-12,Morning,Minor stops,7.7
+2026-03-12,Morning,Changeover,19.8
+2026-03-12,Morning,Minor stops,2.0
+2026-03-12,Afternoon,Changeover,27.2
+2026-03-12,Afternoon,Quality check,5.4
+2026-03-12,Afternoon,Changeover,25.7
+2026-03-12,Afternoon,Minor stops,3.3
+2026-03-12,Night,Breakdown,47.6
+2026-03-12,Night,Breakdown,72.7
+2026-03-12,Night,Quality check,13.9
+2026-03-12,Night,Breakdown,22.3
+2026-03-13,Morning,Changeover,4.6
+2026-03-13,Morning,Changeover,5.5
+2026-03-13,Morning,Breakdown,4.3
+2026-03-13,Morning,Material shortage,6.8
+2026-03-13,Morning,Minor stops,2.0
+2026-03-13,Afternoon,Breakdown,18.9
+2026-03-13,Afternoon,Changeover,13.8
+2026-03-13,Afternoon,Minor stops,15.4
+2026-03-13,Afternoon,Quality check,11.2
+2026-03-13,Night,Breakdown,34.0
+2026-03-13,Night,Quality check,2.0
+2026-03-13,Night,Changeover,92.6
+2026-03-13,Night,Changeover,18.8
+2026-03-14,Morning,Breakdown,38.3
+2026-03-14,Morning,Breakdown,56.4
+2026-03-14,Morning,Breakdown,40.0
+2026-03-14,Morning,Minor stops,11.8
+2026-03-14,Morning,Breakdown,16.3
+2026-03-14,Afternoon,Minor stops,2.1
+2026-03-14,Afternoon,Breakdown,32.6
+2026-03-14,Afternoon,Material shortage,30.0
+2026-03-14,Night,Changeover,16.8
+2026-03-14,Night,Changeover,8.8
+2026-03-14,Night,Breakdown,34.7
+2026-03-14,Night,Minor stops,12.1
+2026-03-14,Night,Minor stops,5.5
+2026-03-15,Morning,Breakdown,7.1
+2026-03-15,Morning,Changeover,15.8
+2026-03-15,Morning,Changeover,42.3
+2026-03-15,Morning,Breakdown,4.9
+2026-03-15,Morning,Changeover,7.9
+2026-03-15,Afternoon,Breakdown,11.2
+2026-03-15,Afternoon,Breakdown,32.2
+2026-03-15,Afternoon,Breakdown,6.9
+2026-03-15,Afternoon,Material shortage,3.7
+2026-03-15,Afternoon,Minor stops,13.3
+2026-03-15,Night,Quality check,6.6
+2026-03-15,Night,Material shortage,11.0
+2026-03-15,Night,Changeover,33.6
+2026-03-16,Morning,Quality check,2.0
+2026-03-16,Morning,Minor stops,2.5
+2026-03-16,Morning,Breakdown,10.2
+2026-03-16,Morning,Breakdown,27.3
+2026-03-16,Morning,Breakdown,53.7
+2026-03-16,Afternoon,Breakdown,43.0
+2026-03-16,Afternoon,Breakdown,37.9
+2026-03-16,Afternoon,Quality check,22.1
+2026-03-16,Afternoon,Breakdown,3.8
+2026-03-16,Night,Changeover,29.2
+2026-03-16,Night,Breakdown,49.8
+2026-03-17,Morning,Material shortage,3.9
+2026-03-17,Morning,Breakdown,5.8
+2026-03-17,Afternoon,Breakdown,21.9
+2026-03-17,Afternoon,Changeover,24.9
+2026-03-17,Night,Changeover,9.6
+2026-03-17,Night,Minor stops,6.0
+2026-03-18,Morning,Breakdown,51.5
+2026-03-18,Morning,Minor stops,4.8
+2026-03-18,Morning,Breakdown,15.6
+2026-03-18,Afternoon,Breakdown,14.3
+2026-03-18,Afternoon,Changeover,78.0
+2026-03-18,Night,Minor stops,2.3
+2026-03-18,Night,Breakdown,37.0
+2026-03-18,Night,Quality check,25.5
+2026-03-19,Morning,Breakdown,6.7
+2026-03-19,Morning,Quality check,15.8
+2026-03-19,Morning,Minor stops,2.1
+2026-03-19,Afternoon,Changeover,21.0
+2026-03-19,Afternoon,Material shortage,15.9
+2026-03-19,Afternoon,Breakdown,18.0
+2026-03-19,Afternoon,Changeover,58.7
+2026-03-19,Night,Changeover,18.7
+2026-03-19,Night,Changeover,12.1
+2026-03-20,Morning,Material shortage,11.6
+2026-03-20,Morning,Breakdown,16.8
+2026-03-20,Afternoon,Changeover,69.8
+2026-03-20,Afternoon,Breakdown,40.2
+2026-03-20,Afternoon,Breakdown,31.7
+2026-03-20,Night,Changeover,11.7
+2026-03-20,Night,Minor stops,4.4
+2026-03-20,Night,Changeover,19.3
+2026-03-20,Night,Breakdown,39.4
+2026-03-21,Morning,Changeover,44.8
+2026-03-21,Morning,Breakdown,25.9
+2026-03-21,Morning,Changeover,58.4
+2026-03-21,Morning,Breakdown,24.2
+2026-03-21,Morning,Breakdown,14.8
+2026-03-21,Afternoon,Changeover,10.4
+2026-03-21,Afternoon,Breakdown,14.0
+2026-03-21,Afternoon,Changeover,38.1
+2026-03-21,Afternoon,Breakdown,19.0
+2026-03-21,Night,Quality check,4.5
+2026-03-21,Night,Changeover,25.7
+2026-03-22,Morning,Breakdown,10.3
+2026-03-22,Morning,Breakdown,12.1
+2026-03-22,Morning,Breakdown,37.1
+2026-03-22,Morning,Changeover,2.5
+2026-03-22,Morning,Changeover,4.5
+2026-03-22,Afternoon,Changeover,9.4
+2026-03-22,Afternoon,Breakdown,54.6
+2026-03-22,Afternoon,Changeover,8.0
+2026-03-22,Afternoon,Breakdown,12.3
+2026-03-22,Night,Breakdown,104.9
+2026-03-22,Night,Breakdown,24.8
+2026-03-22,Night,Minor stops,8.5
+2026-03-22,Night,Quality check,4.9
+2026-03-23,Morning,Changeover,7.7
+2026-03-23,Morning,Breakdown,50.3
+2026-03-23,Morning,Changeover,25.7
+2026-03-23,Afternoon,Changeover,28.1
+2026-03-23,Afternoon,Changeover,20.6
+2026-03-23,Afternoon,Changeover,7.0
+2026-03-23,Night,Breakdown,39.8
+2026-03-23,Night,Changeover,44.3
+2026-03-23,Night,Breakdown,33.6
+2026-03-24,Morning,Minor stops,2.0
+2026-03-24,Morning,Breakdown,3.9
+2026-03-24,Morning,Quality check,3.0
+2026-03-24,Morning,Breakdown,27.7
+2026-03-24,Morning,Quality check,13.9
+2026-03-24,Afternoon,Breakdown,50.4
+2026-03-24,Afternoon,Changeover,18.2
+2026-03-24,Afternoon,Breakdown,92.8
+2026-03-24,Afternoon,Breakdown,30.6
+2026-03-24,Afternoon,Breakdown,34.1
+2026-03-24,Night,Breakdown,9.4
+2026-03-24,Night,Minor stops,17.5
+2026-03-24,Night,Changeover,55.1
+2026-03-24,Night,Material shortage,10.5
+2026-03-25,Morning,Breakdown,100.2
+2026-03-25,Morning,Breakdown,30.0
+2026-03-25,Afternoon,Breakdown,35.2
+2026-03-25,Afternoon,Minor stops,8.1
+2026-03-25,Afternoon,Breakdown,10.1
+2026-03-25,Afternoon,Minor stops,8.2
+2026-03-25,Night,Changeover,7.9
+2026-03-25,Night,Breakdown,6.7
+2026-03-25,Night,Changeover,18.5
+2026-03-25,Night,Material shortage,27.0
+2026-03-26,Morning,Material shortage,3.1
+2026-03-26,Morning,Minor stops,9.2
+2026-03-26,Morning,Breakdown,39.1
+2026-03-26,Morning,Changeover,29.8
+2026-03-26,Afternoon,Breakdown,25.7
+2026-03-26,Afternoon,Breakdown,59.2
+2026-03-26,Afternoon,Changeover,36.9
+2026-03-26,Afternoon,Minor stops,15.3
+2026-03-26,Afternoon,Breakdown,58.1
+2026-03-26,Night,Breakdown,11.7
+2026-03-26,Night,Breakdown,24.6
+2026-03-27,Morning,Changeover,4.9
+2026-03-27,Morning,Breakdown,32.7
+2026-03-27,Morning,Material shortage,2.0
+2026-03-27,Morning,Quality check,10.0
+2026-03-27,Morning,Changeover,2.0
+2026-03-27,Afternoon,Breakdown,8.3
+2026-03-27,Afternoon,Changeover,20.5
+2026-03-27,Afternoon,Material shortage,10.7
+2026-03-27,Night,Breakdown,41.4
+2026-03-27,Night,Breakdown,28.6
+2026-03-27,Night,Breakdown,111.7
+2026-03-28,Morning,Changeover,32.4
+2026-03-28,Morning,Minor stops,5.1
+2026-03-28,Morning,Changeover,4.8
+2026-03-28,Morning,Breakdown,21.5
+2026-03-28,Afternoon,Breakdown,68.2
+2026-03-28,Afternoon,Changeover,6.7
+2026-03-28,Afternoon,Minor stops,9.4
+2026-03-28,Afternoon,Breakdown,28.5
+2026-03-28,Afternoon,Minor stops,6.0
+2026-03-28,Night,Breakdown,36.7
+2026-03-28,Night,Material shortage,20.9
+2026-03-29,Morning,Breakdown,26.4
+2026-03-29,Morning,Breakdown,3.5
+2026-03-29,Afternoon,Breakdown,37.0
+2026-03-29,Afternoon,Breakdown,30.7
+2026-03-29,Night,Breakdown,17.4
+2026-03-29,Night,Material shortage,8.0
+2026-03-29,Night,Changeover,31.9
+2026-03-29,Night,Quality check,10.5
+2026-03-30,Morning,Breakdown,19.5
+2026-03-30,Morning,Minor stops,16.6
+2026-03-30,Afternoon,Breakdown,19.5
+2026-03-30,Afternoon,Breakdown,21.1
+2026-03-30,Afternoon,Breakdown,10.2
+2026-03-30,Afternoon,Minor stops,7.0
+2026-03-30,Afternoon,Minor stops,10.0
+2026-03-30,Night,Material shortage,26.3
+2026-03-30,Night,Changeover,55.0
+2026-03-30,Night,Minor stops,8.6
+2026-03-30,Night,Minor stops,8.3
+2026-03-31,Morning,Minor stops,7.3
+2026-03-31,Morning,Minor stops,24.8
+2026-03-31,Morning,Material shortage,23.1
+2026-03-31,Morning,Minor stops,8.6
+2026-03-31,Morning,Quality check,9.8
+2026-03-31,Afternoon,Minor stops,9.1
+2026-03-31,Afternoon,Material shortage,2.4
+2026-03-31,Afternoon,Minor stops,3.3
+2026-03-31,Night,Material shortage,40.6
+2026-03-31,Night,Changeover,4.9
