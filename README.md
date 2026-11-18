@@ -1,6 +1,6 @@
 # SPC & OEE Quality Dashboard
 
-[![tests](https://github.com/Muat01/spc-oee-quality-dashboard1/actions/workflows/tests.yml/badge.svg)](https://github.com/Muat01/spc-oee-quality-dashboard1/actions/workflows/tests.yml)
+[![tests](https://github.com/Muat01/spc-oee-quality-dashboard/actions/workflows/tests.yml/badge.svg)](https://github.com/Muat01/spc-oee-quality-dashboard/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22C98A.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org)
 
