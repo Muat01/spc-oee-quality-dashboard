@@ -27,6 +27,6 @@ figs = {
     "downtime_pareto.png": charts.pareto(oee.pareto(down)),
 }
 for name, fig in figs.items():
-    fig.update_layout(paper_bgcolor="#0d1424")
+    fig.update_layout(paper_bgcolor="#171E1B")
     fig.write_image(f"docs/{name}", width=1200, scale=2)
 print("docs figures written")

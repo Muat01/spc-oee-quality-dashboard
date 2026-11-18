@@ -1,4 +1,8 @@
-# 📊 SPC & OEE Quality Dashboard
+# SPC & OEE Quality Dashboard
+
+[![tests](https://github.com/Muat01/spc-oee-quality-dashboard1/actions/workflows/tests.yml/badge.svg)](https://github.com/Muat01/spc-oee-quality-dashboard1/actions/workflows/tests.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-22C98A.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org)
 
 **Control charts, process capability and OEE analysis for manufacturing, built with Python and Streamlit.**
 
@@ -8,7 +12,7 @@ Academic project · Telkom University · Industrial Engineering (MEng)
 
 🔗 **Live demo:** <add-your-streamlit-link-here>
 
-## 🎯 Problem
+## Problem
 
 Two questions drive quality and productivity on any shop floor:
 
@@ -20,7 +24,7 @@ Two questions drive quality and productivity on any shop floor:
 This dashboard answers both from simple CSV files, with the formulas implemented
 from scratch and covered by unit tests.
 
-## ✨ Features
+## Features
 
 | Tab | What it does |
 |-----|--------------|
@@ -31,7 +35,7 @@ from scratch and covered by unit tests.
 
 You can use the built-in simulated data or **upload your own CSV files** (column formats are shown in the sidebar).
 
-## 📈 Example findings (simulated data)
+## Example findings (simulated data)
 
 The sample data simulates a shaft-diameter process (spec 25.000 ± 0.040 mm) with injected events,
 and a machining cell over 30 days × 3 shifts.
@@ -65,14 +69,14 @@ trails the morning shift (75%).
 
 > ⚠️ All data in this repository is **simulated** (`data_gen.py`, fixed seed). It is not from a real factory.
 
-## 🎨 Design
+## Design
 
 Dark "control room" interface: Inter and JetBrains Mono typefaces, tabular numerals for all figures,
-and a consistent color language (mint = in control / good, amber = warning, red = out of control / loss).
+and the MH Emerald & Gold palette shared by my other dashboards (emerald = in control / good, gold = warning, red = out of control / loss).
 Control charts shade the σ zones, flag run-rule signals with glowing markers, and label limits with their values;
 every tab ends with auto-generated insights computed from the data.
 
-## 🧮 Method in brief
+## Method in brief
 
 - **X̄-R limits:** `X̿ ± A₂·R̄`, range chart `D₃·R̄` and `D₄·R̄`; within-subgroup sigma `σ = R̄ / d₂`
 - **I-MR limits:** `X̄ ± 3·(MR̄ / 1.128)`
@@ -80,7 +84,7 @@ every tab ends with auto-generated insights computed from the data.
 - **Capability:** `Cpk = min(USL − μ, μ − LSL) / 3σ_within`, with `Pp/Ppk` using the overall standard deviation
 - **OEE:** `Availability × Performance × Quality`, aggregated time-weighted (sums first, then ratios)
 
-## 🚀 Getting Started
+## Getting started
 
     git clone https://github.com/Muat01/spc-oee-quality-dashboard.git
     cd spc-oee-quality-dashboard
@@ -95,7 +99,7 @@ Regenerate the sample data (optional):
 
     python data_gen.py
 
-## 📂 Using your own data
+## Using your own data
 
 Choose **Upload my CSV files** in the sidebar.
 
@@ -107,7 +111,7 @@ Choose **Upload my CSV files** in the sidebar.
 
 Set your real **LSL / USL** in the Capability tab (the defaults for uploaded data are only placeholders).
 
-## 📁 Project Structure
+## Project structure
 
     ├── app.py              # Streamlit dashboard (layout and logic)
     ├── ui.py               # CSS theme and HTML components (cards, pills, callouts)
@@ -120,9 +124,15 @@ Set your real **LSL / USL** in the Capability tab (the defaults for uploaded dat
     ├── make_assets.py      # Optional: build the LinkedIn carousel
     ├── data/               # Sample CSV files (simulated)
     ├── docs/               # Figures
-    └── tests/              # Unit tests (formulas checked against hand calculations)
+    ├── tests/              # 16 unit tests (formulas checked against hand calculations)
+    └── .github/workflows/  # CI: pytest on every push
 
-## 🔭 Possible Extensions
+Run them with:
+
+    pip install -r requirements.txt pytest
+    pytest -q      # 16 tests
+
+## Possible extensions
 
 - Attribute charts (p, np, c, u) and EWMA / CUSUM charts for small shifts
 - Gauge R&R and measurement system analysis
@@ -130,7 +140,7 @@ Set your real **LSL / USL** in the Capability tab (the defaults for uploaded dat
   [production line simulator](https://github.com/Muat01/production-line-simulation-simpy)
   to link quality, OEE and throughput
 
-## 👤 Author
+## Author
 
 **Muatasem Hadi** · MEng Candidate in Industrial Engineering, Telkom University ·
 [LinkedIn](https://www.linkedin.com/in/muatasem-hadi)
